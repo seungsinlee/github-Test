@@ -9,6 +9,7 @@ public class Person {
 	//메소드
 	public void eat() {
 		System.out.println("밥을먹는다.");
+		System.out.println("수정수정");
 	}
 	
 	
